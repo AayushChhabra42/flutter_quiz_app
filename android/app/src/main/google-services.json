@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450373166420",
+    "project_id": "privacy-app-5bb3b",
+    "storage_bucket": "privacy-app-5bb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450373166420:android:2cb011b4a618ee812814c1",
+        "android_client_info": {
+          "package_name": "io.test.privacyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTcNHt9jrlhU7WtcrTRdeAaXLI5YyN_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

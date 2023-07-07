@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "450373166420",
+    "project_id": "privacy-app-5bb3b",
+    "storage_bucket": "privacy-app-5bb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450373166420:android:2cb011b4a618ee812814c1",
+        "android_client_info": {
+          "package_name": "io.test.privacyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450373166420-qp0l8k901mkgnl5drp1vvuvn21371lc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.test.privacyapp",
+            "certificate_hash": "6e16ccb24d3a6b6abfc45cbb3eea0fdb6434b422"
+          }
+        },
+        {
+          "client_id": "450373166420-6m4qje568hfero41b0qpsvlmqrgqgv3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTcNHt9jrlhU7WtcrTRdeAaXLI5YyN_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450373166420-6m4qje568hfero41b0qpsvlmqrgqgv3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450373166420-cdb1j69l8ki08d1edenh1rkoap6ugcng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.test.privacyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
