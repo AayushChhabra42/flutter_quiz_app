@@ -6,4 +6,4 @@ A project for a quizzing app made using FLutter
 
 -Using Firebase as a scable backend service.
 
--Using various widgets from material UI for functinalities like dynamic drawers
+-Using various widgets from material UI.
